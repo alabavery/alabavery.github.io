@@ -73,9 +73,8 @@ a {
   color: $blue;
   text-decoration: none;
 	cursor: pointer;
-	color: #ff5e59; /*soft red*/
   &:hover, &:active {
-    color: #ff5e59; /*soft red*/
+    color: $blue;
   }
 }
 
