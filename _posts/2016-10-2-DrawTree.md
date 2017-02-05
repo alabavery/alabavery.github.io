@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Automating Probability Tree Drawing in Python
+title: Probability Tree Drawing in Python
 ---
-I wrote a program for drawing probability tree with no intersecting branches, for any number of branches and sub-branches.
+I wrote a program for drawing probability trees with no intersecting branches, for any number of branches and sub-branches.
 I also created animation to show off the cool geometry behind it.
 
 [![Demo CountPages alpha](https://j.gifs.com/r0B6nk.gif)](https://www.youtube.com/watch?v=tyIMAtRVS4w&feature=youtu.be)
