@@ -30,7 +30,6 @@ body {
   font-size: 21px;
   font-weight: 200;
   color: $darkGray;
-  margin-top: 348px;
 }
 
 .container {
@@ -171,15 +170,17 @@ img {
   right: 0;
   left: 0;
   z-index: 1030;
-	
-      padding-right: 0;
-    padding-left: 0;
-max-height: 340px;
-	
-	  top: 0;
+
+  padding-right: 0;
+  padding-left: 0;
+  max-height: 340px;
+  top: 0;
   border-width: 0 0 1px;
 }
 
+#main {
+   margin-top: 340px;
+}
 
 .masthead {
   padding: 20px 0;
