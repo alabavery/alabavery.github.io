@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Parking Panic Solver
+title: A Programmatic Solution to "Parking Panic"
 ---
 There’s a game on the kid’s site coolmath-games.com called Parking Panic.  It’s really fun, and probably good for intellectual development in some way.  [Check it out.](http://www.coolmath-games.com/0-parking-panic). I learned about this game last year, soon after I started programming full-time. So naturally I wondered if you could find a programmatic solution to it.
 
