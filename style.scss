@@ -87,7 +87,6 @@ a {
   &:hover, &:active {
     text-decoration: none;
     color: #ff524d;
-    background-color: #ffff99;
   }
 }
 
@@ -195,6 +194,7 @@ img {
 
 #main {
    margin-top: 10%;
+   a {background-color: #ffff99;}
 }
 
 .masthead {
