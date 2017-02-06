@@ -194,7 +194,9 @@ img {
 
 #main {
    margin-top: 10%;
-   a {background-color: #ffff99;}
+   a {
+     &:hover, &:active {background-color: #ffff99;}
+	}
 }
 
 .masthead {
