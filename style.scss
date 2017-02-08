@@ -163,7 +163,7 @@ img {
 // .masthead
 //
 .wrapper-masthead {
-  background-color: black;
+  background-color: #404040;
   margin-bottom: 50px;
   border-bottom: 1px solid black;
 	
@@ -193,6 +193,7 @@ img {
 
 .masthead {
   padding: 20px 0;
+  color: white;
   @include mobile {
     text-align: center;
   }
