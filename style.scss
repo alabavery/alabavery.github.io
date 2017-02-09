@@ -25,7 +25,7 @@ html {
 }
 
 body {
-  background: white;
+  background: #eeeeee;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 21px;
   font-weight: 200;
@@ -193,7 +193,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  color: #f1f1f1;
+  color: #eeeeee;
   @include mobile {
     text-align: center;
   }
