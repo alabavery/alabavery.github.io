@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Algorithm Grabbag
+title: Algorithm Grab-Bag
 ---
 A bunch of algorithms from Princeton's algorithms course implemented in C++.
 
