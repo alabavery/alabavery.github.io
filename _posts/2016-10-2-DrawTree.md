@@ -7,7 +7,7 @@ I also created animation to show off the cool geometry behind it.
 
 [![Demo CountPages alpha](https://j.gifs.com/r0B6nk.gif)](https://www.youtube.com/watch?v=tyIMAtRVS4w&feature=youtu.be)
 
-The real challenge of this was actually in the geometry deductions I made while planning the code rather than the code itself. Basically, it required [a bunch of those clever little tricks you remember from middle and high school](http://www.analyzemath.com/high_school_math/grade_10/geometry.html) with the addition of a tiny bit of fancier linear algebra.  In addition to reminding me of my high school bullies, this project also taught me a few valuable programmign lessons:
+The real challenge of this was actually in the geometry deductions I made while planning the code rather than the code itself. Basically, it required [a bunch of those clever little tricks you remember from middle and high school](http://www.analyzemath.com/high_school_math/grade_10/geometry.html) with the addition of some fancier linear algebra.  In addition to reminding me of my high school bullies, this project also taught me a few valuable programmign lessons:
 
 * I was forced to have a clear picture of what the algorithm looked like before putting fingers to the keyboard.  The lengthy list of geometric procedures and vector math would have made a debugging nightmare if I had tried to implement them on the fly as I coded.  This was probably the first program for which I spent more time writing on notebook paper than in a code editor.
 
